@@ -1,0 +1,30 @@
+h2{
+    color: #e67c0b;
+    text-align: center;
+    background-color: #736f6c;
+    font-family: 'The Nautigal', cursive;
+}
+body{
+    background: url(img_1.jpg);
+}
+form{
+    text-align: center;
+    color: #e67c0b;
+    border: solid #e67c0b 10px;
+    margin-top: 100px;
+    margin-left: 350px;
+    margin-right: 350px;
+    border-radius: 5px;
+    font-family: 'The Nautigal', cursive;
+    
+}
+form input{
+    margin-top: 30px;
+}
+input{
+    background-color: #c55ecc;
+}
+button{
+    height: 50px;
+    width: 500px;
+}
